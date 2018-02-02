@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="guess You Like" />
       <item value="Scrawl" />
       <item value="End Point" />
       <item value="endpoint" />
@@ -52,7 +53,6 @@
       <item value="白色" />
       <item value="radio" />
       <item value="If the user is null, but we decrypt a &quot;recaller&quot; cookie we can attempt to // pull the user data on that cookie which serves as a remember cookie on // the application. Once we have a user we can return it to the caller." />
-      <item value="attempt" />
     </histories>
   </component>
   <component name="Settings">
