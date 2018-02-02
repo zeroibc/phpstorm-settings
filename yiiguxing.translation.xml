@@ -55,4 +55,8 @@
       <item value="attempt" />
     </histories>
   </component>
+  <component name="Settings">
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Consolas" />
+  </component>
 </application>
