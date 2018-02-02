@@ -1,0 +1,58 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastSourceLanguage" value="AUTO" />
+    <option name="lastTargetLanguage" value="CHINESE" />
+    <histories>
+      <item value="Scrawl" />
+      <item value="End Point" />
+      <item value="endpoint" />
+      <item value="order no" />
+      <item value="钥" />
+      <item value="pay" />
+      <item value="status" />
+      <item value="state" />
+      <item value="vip orders" />
+      <item value="not found" />
+      <item value="login Success" />
+      <item value="prepare" />
+      <item value="pic" />
+      <item value="头像" />
+      <item value="photo" />
+      <item value="relation" />
+      <item value="关联" />
+      <item value="关" />
+      <item value="star" />
+      <item value="收藏" />
+      <item value="浏览" />
+      <item value="forget" />
+      <item value="$ code check" />
+      <item value="backup" />
+      <item value="Determine if a given string is an alias." />
+      <item value="discover" />
+      <item value="Get the local time * @link http://php.net/manual/en/function.localtime.php * @param int $timestamp [optional] * @param bool $is_associative [optional] &lt;p&gt; * If set to false or not supplied then the array is returned as a regular, * numerically indexed array. If the argument is set to true then * localtime returns an associative array containing * all the different elements of the structure returned by the C * function call to localtime. The names of the different keys of * the associative array are as follows:" />
+      <item value="WEIXINWEB REDIRECT URI 1" />
+      <item value="REDIRECT" />
+      <item value="$ scopes" />
+      <item value="log Call Back" />
+      <item value="logout" />
+      <item value="redirect" />
+      <item value="Third Party Services" />
+      <item value="nickname" />
+      <item value="County" />
+      <item value="县区" />
+      <item value="城市" />
+      <item value="省份" />
+      <item value="address" />
+      <item value="sex" />
+      <item value="gender" />
+      <item value="precision" />
+      <item value="Reverse" />
+      <item value="series" />
+      <item value="Decorates another Matcher, retaining the behavior but allowing tests * to be slightly more expressive." />
+      <item value="白色" />
+      <item value="radio" />
+      <item value="If the user is null, but we decrypt a &quot;recaller&quot; cookie we can attempt to // pull the user data on that cookie which serves as a remember cookie on // the application. Once we have a user we can return it to the caller." />
+      <item value="attempt" />
+    </histories>
+  </component>
+</application>

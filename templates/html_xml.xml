@@ -1,0 +1,17 @@
+<templateSet group="html/xml">
+  <template name="?pi" value="&lt;?php include '$SELECTION$';?&gt;" description="include" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="?pf" value="&lt;?php foreach( $data as $k =&gt; $v ): ?&gt;&#10;$SELECTION$&#10;&lt;?php endforeach; ?&gt;&#10;" description="foreach" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="?pe" value="&lt;?php echo $v['$SELECTION$'];?&gt;" description="echo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
