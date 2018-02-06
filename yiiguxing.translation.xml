@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="address" />
       <item value="mounted" />
       <item value="guess You Like" />
       <item value="Scrawl" />
@@ -44,7 +45,6 @@
       <item value="县区" />
       <item value="城市" />
       <item value="省份" />
-      <item value="address" />
       <item value="sex" />
       <item value="gender" />
       <item value="precision" />
