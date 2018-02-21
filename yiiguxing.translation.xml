@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="eval" />
       <item value="address" />
       <item value="mounted" />
       <item value="guess You Like" />
@@ -52,7 +53,6 @@
       <item value="series" />
       <item value="Decorates another Matcher, retaining the behavior but allowing tests * to be slightly more expressive." />
       <item value="白色" />
-      <item value="radio" />
     </histories>
   </component>
   <component name="Settings">
