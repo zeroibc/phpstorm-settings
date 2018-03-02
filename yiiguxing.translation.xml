@@ -3,6 +3,11 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="fields" />
+      <item value="field" />
+      <item value="filed" />
+      <item value="fileds" />
+      <item value="$ fileds" />
       <item value="about" />
       <item value="where" />
       <item value="begin work time" />
@@ -48,11 +53,6 @@
       <item value="省份" />
       <item value="address" />
       <item value="sex" />
-      <item value="gender" />
-      <item value="precision" />
-      <item value="Reverse" />
-      <item value="series" />
-      <item value="Decorates another Matcher, retaining the behavior but allowing tests * to be slightly more expressive." />
     </histories>
   </component>
 </application>
