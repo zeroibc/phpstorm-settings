@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="minutes" />
       <item value="$ params" />
       <item value="fields" />
       <item value="field" />
@@ -52,7 +53,6 @@
       <item value="县区" />
       <item value="城市" />
       <item value="省份" />
-      <item value="address" />
     </histories>
   </component>
 </application>
