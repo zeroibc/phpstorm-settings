@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="params" />
+      <item value="param" />
+      <item value="secret" />
+      <item value="partner" />
       <item value="minutes" />
       <item value="$ params" />
       <item value="fields" />
@@ -49,10 +53,6 @@
       <item value="redirect" />
       <item value="Third Party Services" />
       <item value="nickname" />
-      <item value="County" />
-      <item value="县区" />
-      <item value="城市" />
-      <item value="省份" />
     </histories>
   </component>
 </application>
