@@ -3,6 +3,11 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="up Shelf" />
+      <item value="upshelf" />
+      <item value="Out" />
+      <item value="sold" />
+      <item value="sold Out" />
       <item value="params" />
       <item value="param" />
       <item value="secret" />
@@ -48,11 +53,6 @@
       <item value="WEIXINWEB REDIRECT URI 1" />
       <item value="REDIRECT" />
       <item value="$ scopes" />
-      <item value="log Call Back" />
-      <item value="logout" />
-      <item value="redirect" />
-      <item value="Third Party Services" />
-      <item value="nickname" />
     </histories>
   </component>
 </application>
