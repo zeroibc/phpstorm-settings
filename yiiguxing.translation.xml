@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="prefix" />
       <item value="up Shelf" />
       <item value="upshelf" />
       <item value="Out" />
@@ -52,7 +53,6 @@
       <item value="Get the local time * @link http://php.net/manual/en/function.localtime.php * @param int $timestamp [optional] * @param bool $is_associative [optional] &lt;p&gt; * If set to false or not supplied then the array is returned as a regular, * numerically indexed array. If the argument is set to true then * localtime returns an associative array containing * all the different elements of the structure returned by the C * function call to localtime. The names of the different keys of * the associative array are as follows:" />
       <item value="WEIXINWEB REDIRECT URI 1" />
       <item value="REDIRECT" />
-      <item value="$ scopes" />
     </histories>
   </component>
 </application>
